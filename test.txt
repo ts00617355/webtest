@@ -7,3 +7,4 @@ add from feature
 add some confict
 hello
 newnew
+新增文字
